@@ -1,0 +1,5 @@
+HTML validation
+Bad character ↩ after <. Probable cause: Unescaped <. Try escaping it as &lt;.
+
+CSS validation
+¡Enhorabuena! No error encontrado.
